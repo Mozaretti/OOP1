@@ -1,5 +1,5 @@
+package OOP;
 import java.util.Objects;
-
 public class Hogwarts {
     private final String nameOfStudent;
     private final int powerOfMagic;
